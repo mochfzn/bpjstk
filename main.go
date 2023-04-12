@@ -214,16 +214,5 @@ func handleRequest() {
 }
 
 func main() {
-	// customers := Customers{}
-	// err := customers.Generate()
-	// if err != nil {
-	// 	fmt.Println(err)
-	// }
-
-	// request := Request{}
-	// err := request.Generate()
-	// if err != nil {
-	// 	fmt.Println(err)
-	// }
 	handleRequest()
 }
